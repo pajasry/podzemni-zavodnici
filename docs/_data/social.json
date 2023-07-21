@@ -1,12 +1,22 @@
 [
   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/profile.php?id=100093649176426",
+    "image": "images/social/facebook.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/podzemni_zavodnici/",
+    "image": "images/social/instagram.svg"
+  },
+  {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/pajasry/podzemni-zavodnici",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  }
+    "name": "Email",
+    "link": "mailto:team@podzemni-zavodnici.cz",
+    "image": "images/social/email.svg"
+  },
 ]
