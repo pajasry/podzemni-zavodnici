@@ -1,7 +1,7 @@
 ---
 title: "Marek Suchý"
 date: 2023-07-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/marek.jpg"
 jobtitle: "Hlavní umělec"
 promoted: true
 weight: 2

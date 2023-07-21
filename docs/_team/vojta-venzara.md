@@ -1,7 +1,7 @@
 ---
 title: "Vojta Venzara"
 date: 2023-07-19T10:47:58+10:00
-image: "images/team/sage-kirk-485982-unsplash.jpg"
+image: "images/team/vojta.jpg"
 jobtitle: "Šofér"
 weight: 4
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Pavel Šrytr"
 date: 2023-07-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/pavel.jpg"
 jobtitle: "Lídr a všeuměl"
 weight: 1
 promoted: true

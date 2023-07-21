@@ -1,7 +1,7 @@
 ---
 title: "Filip Krajník"
 date: 2023-07-19T10:47:58+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+image: "images/team/filip.jpg"
 jobtitle: "Mechanik a sociální expert"
 weight: 3
 ---

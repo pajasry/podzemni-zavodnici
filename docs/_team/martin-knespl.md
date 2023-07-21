@@ -1,7 +1,7 @@
 ---
 title: "Martin Knespl"
 date: 2023-07-19T10:47:58+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
+image: "images/team/martin.jpg"
 jobtitle: "Mechanik a CAD"
 weight: 5
 ---
