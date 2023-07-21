@@ -1,21 +1,24 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Domů"
+    url: "/"
     weight: 2
-  - name: "Team"
+  - name: "Tým"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Krtikára"
+    url: "/vehicle/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "O závodě"
+    url: "/race/"
     weight: 5
+  - name: "Deníček"
+    url: "/diary"
+    weight: 6
 
 footer:
-  - name: "Home"
+  - name: "Domů"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 2
