@@ -3,7 +3,7 @@ layout: default
 bodyClass: "page-home"
 ---
 
-<div class="intro">
+<div class="intro mb-10">
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
@@ -23,22 +23,48 @@ bodyClass: "page-home"
 
 {% if site.data.features %}
 <div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10 justify-content-center">
     <div class="row justify-content-center">
+    <h1 class="h1">Krikára</h1>
+    </div>
+    <div class="row justify-content-center">
+      {% assign array = site.data.features %}
+      {% assign array_size = array | size %}
+      {% assign half_size = array_size | divided_by: 2 %}
+      {% assign first_half = array | slice: 0, half_size %}
+      {% assign second_half = array | slice: half_size, array_size %}
 
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
+      <div class="row">
+        <div class="col-12 col-lg-8">
+          {% for feature in first_half %}
+          <div class="row">
+            <div class="">
+              {% if feature.image %}
+                <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+              {% endif %}
+              <h2 class="feature-title">{{ feature.title }}</h2>
+              <div class="feature-content">{{ feature.description }}</div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <div class="mx-auto mx-lg-0 h-100 col-8 col-sm-12 col-md-12 col-lg-4 my-auto">
+          <img class="img-fluid" src="/images/krtikara_up.png" alt="Krtikára"/>
         </div>
       </div>
-      {% endfor %}
+
+
 
     </div>
   </div>
 </div>
 {% endif %}
+
+<div class="row">
+  <div class="col">
+
+  </div>
+  <div class="col">
+
+  </div>
+</div>

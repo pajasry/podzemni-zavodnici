@@ -5,15 +5,9 @@ main:
   - name: "Tým"
     url: "/team/"
     weight: 3
-  - name: "Krtikára"
-    url: "/vehicle/"
-    weight: 4
-  - name: "O závodě"
-    url: "/race/"
-    weight: 5
   - name: "Deníček"
     url: "/diary"
-    weight: 6
+    weight: 5
 
 footer:
   - name: "Domů"

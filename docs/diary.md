@@ -1,6 +1,6 @@
 ---
 title: Deníček
-layout: page
+layout: under_construction
 description: "Deník týmu"
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true

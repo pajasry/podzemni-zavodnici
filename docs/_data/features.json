@@ -1,29 +1,26 @@
 [
   {
-    "title": "Rychlost",
-    "description": "Voluptate sint Lorem elit fugiat reprehenderit et nisi est nulla labore ad pariatur cupidatat.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Rám",
+    "description": "Voluptate sint Lorem elit fugiat reprehenderit et nisi est nulla labore ad pariatur cupidatat."
+  },
+  {
+    "title": "Karoserie",
+    "description": "Irure veniam duis adipisicing ipsum anim veniam nulla non in."
+  },
+  {
+    "title": "Kola",
+    "description": "Culpa aliquip anim eiusmod nostrud laborum sunt anim cupidatat nostrud."
+  },
+  {
+    "title": "Kostýmy",
+    "description": "Voluptate sint Lorem elit fugiat reprehenderit et nisi est nulla labore ad pariatur cupidatat."
   },
   {
     "title": "Nápad",
-    "description": "Irure veniam duis adipisicing ipsum anim veniam nulla non in.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
+    "description": "Irure veniam duis adipisicing ipsum anim veniam nulla non in."
   },
   {
     "title": "Bezpečnost",
-    "description": "Culpa aliquip anim eiusmod nostrud laborum sunt anim cupidatat nostrud.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
+    "description": "Culpa aliquip anim eiusmod nostrud laborum sunt anim cupidatat nostrud."
   }
 ]
